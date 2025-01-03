@@ -1,0 +1,2 @@
+- On every frame we generate game context object, compare it with one (or more) previous contexts and infer events from the differences.
+-
