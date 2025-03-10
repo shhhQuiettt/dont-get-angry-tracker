@@ -19,37 +19,12 @@
 
 ### Event of rolling a dice (snippet)
 
-
-
-```python
-%%HTML
-<video width="800" controls>
-  <source src="report_media/rolling.mp4" type="video/mp4">
-</video>
-```
-
-
-<video width="800" controls>
-  <source src="report_media/rolling.mp4" type="video/mp4">
-</video>
-
+![Rolling event](./report_media/rolling.gif)
 
 
 ### Event of entering a target base (on medium dataset)
 
-
-```python
-%%HTML
-<video width="800" controls>
-  <source src="report_media/entering.mp4" type="video/mp4">
-</video>
-```
-
-
-<video width="800" controls>
-  <source src="report_media/entering.mp4" type="video/mp4">
-</video>
-
+![Entering target base](./report_media/entering.gif)
 
 
 # Dataset
